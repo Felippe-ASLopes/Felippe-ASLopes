@@ -2,7 +2,7 @@
 
 #  Olá, eu sou o Felippe
 
-<img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=Felippe-ASLopes&layout=compact&langs_count=15&hide_border=true&title_color=8e44ad&text_color=FFF&bg_color=0d1117"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-ASLopes&layout=compact&langs_count=15&hide_border=true&title_color=8e44ad&text_color=FFF&bg_color=0d1117&cache_seconds=86400"
      alt="Functional way is the right way"
      style="margin-top:20px;"
      height="280px"
@@ -21,4 +21,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felippe-ASLopes/Felippe-ASLopes/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=footer"/>  
